@@ -1,3 +1,11 @@
+node js version : 14.17.0
+npm version : 6.14.18
+react version : 16.14.0
+react-dom version : 16.14.0
+agora-rtc-react version : 1.1.3
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
